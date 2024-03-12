@@ -31,7 +31,7 @@ filenames which are both long and SJIS.  [The PCFX FAT format is documented here
 
 ### Sample Output:
 
-![Script Output](images/sample_output.jpg)
+![Script Output](images/sample_output.JPG)
 
 
 ### Limitations/Known Issues
